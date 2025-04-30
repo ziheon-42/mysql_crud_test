@@ -1,7 +1,5 @@
 # ClassicModels Dashboard (SQLite)
-## **Streamlit**을 사용하여 **SQLite** 데이터베이스에서 데이터를 쿼리하고 시각화하는 대시보드
-예시
-
+**Streamlit**을 사용하여 **SQLite** 데이터베이스에서 데이터를 쿼리하고 시각화하는 대시보드
 ![Image](https://github.com/user-attachments/assets/1071752a-601f-4dba-8da0-36aa3568255c)
 
 ## 필수 라이브러리
