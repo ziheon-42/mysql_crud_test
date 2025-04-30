@@ -32,7 +32,7 @@ streamlit run streamlit_sqlite_app.py
 
 
 ## 정상 접속 
-[정상 접속 화면](https://github.com/ziheon-42/mysql_crud_test/blob/main/screenshot.PNG)
+[정상 접속 화면]![Image](https://github.com/user-attachments/assets/1071752a-601f-4dba-8da0-36aa3568255c)
 
 
 ## 데이터 분석 시각화 샘플
