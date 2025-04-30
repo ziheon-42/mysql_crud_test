@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## 대시보드 실행(코드로 접속)
 - 라이브러리 설치가 완료되면 아래 코드를 입력하여 대시보드 실행 가능
-- 대시보드가 실행되면 **http://localhost:8501**으로 접속됨
+- 대시보드가 실행되면 **http://localhost:8501** 으로 접속됨
 ```bash
 streamlit run streamlit_sqlite_app.py
 ```
