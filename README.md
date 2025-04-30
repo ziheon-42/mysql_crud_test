@@ -31,12 +31,15 @@ streamlit run streamlit_sqlite_app.py
 [대시보드 확인하기](https://lgu6sql-dfeqfqnwtwmqmwa2xktbnb.streamlit.app/)
 
 
-## 정상 접속 
-[정상 접속 화면]![Image](https://github.com/user-attachments/assets/1071752a-601f-4dba-8da0-36aa3568255c)
+## 정상 접속 화면
+![Image](https://github.com/user-attachments/assets/1071752a-601f-4dba-8da0-36aa3568255c)
 
 
 ## 데이터 분석 시각화 샘플
-- [customers_by_country.png](https://github.com/ziheon-42/mysql_crud_test/blob/main/img/customers_by_country.png)
-- [order_amounts_distribution](https://github.com/ziheon-42/mysql_crud_test/blob/main/img/order_amounts_distribution.png)
-- [orders_by_month](https://github.com/ziheon-42/mysql_crud_test/blob/main/img/orders_by_month.png)
-- [product_prices](https://github.com/ziheon-42/mysql_crud_test/blob/main/img/product_prices.png)
+- [customers_by_country.png]![Image](https://github.com/user-attachments/assets/f0fc8815-4625-40f6-b650-f6e9a1eb71d0)
+
+- [order_amounts_distribution]![Image](https://github.com/user-attachments/assets/b9a38d40-c214-4310-8515-4d71366a1ec0)
+
+- [orders_by_month]![Image](https://github.com/user-attachments/assets/6260129f-f338-4d33-be78-22d51d0c7d1f)
+
+- [product_prices]![Image](https://github.com/user-attachments/assets/e432e3d7-789a-4181-aa31-05cd968c98e5)
