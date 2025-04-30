@@ -1,6 +1,6 @@
 # ClassicModels Dashboard (SQLite)
 **Streamlit**을 사용하여 **SQLite** 데이터베이스에서 데이터를 쿼리하고 시각화하는 대시보드
-
+![Image](https://github.com/user-attachments/assets/1071752a-601f-4dba-8da0-36aa3568255c)
 
 ## 필수 라이브러리
 - `streamlit`
@@ -29,10 +29,6 @@ streamlit run streamlit_sqlite_app.py
 
 ## 대시보드 실행(링크로 접속)
 [대시보드 확인하기](https://lgu6sql-dfeqfqnwtwmqmwa2xktbnb.streamlit.app/)
-
-
-## 정상 접속 화면
-![Image](https://github.com/user-attachments/assets/1071752a-601f-4dba-8da0-36aa3568255c)
 
 
 ## 데이터 분석 시각화 샘플
