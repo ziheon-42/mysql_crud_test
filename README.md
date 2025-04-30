@@ -36,4 +36,7 @@ streamlit run streamlit_sqlite_app.py
 
 
 ## 데이터 분석 시각화 샘플
-- [customers_by_country.png]
+- [customers_by_country.png](https://github.com/ziheon-42/mysql_crud_test/blob/main/img/customers_by_country.png)
+- [order_amounts_distribution](https://github.com/ziheon-42/mysql_crud_test/blob/main/img/order_amounts_distribution.png)
+- [orders_by_month](https://github.com/ziheon-42/mysql_crud_test/blob/main/img/orders_by_month.png)
+- [product_prices](https://github.com/ziheon-42/mysql_crud_test/blob/main/img/product_prices.png)
